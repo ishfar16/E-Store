@@ -1,0 +1,27 @@
+.error-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  padding: 2rem;
+}
+
+.error-content {
+  text-align: center;
+  background: #fee;
+  border: 2px solid #fcc;
+  border-radius: 10px;
+  padding: 2rem;
+  max-width: 500px;
+}
+
+.error-content h2 {
+  color: #c33;
+  margin: 0 0 1rem 0;
+}
+
+.error-content p {
+  color: #666;
+  margin: 0;
+}
+
